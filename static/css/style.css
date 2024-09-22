@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    display: grid;
+    justify-content: start;
+}
+a{
+    color:green;
+    place-self: center;
+    text-align: center;
+
+
+}
+ol{
+    color:green;
+}
+h1,h2,h3,h4,div,ul,details,summary{
+    color:green;
+    place-self:center;
+    place-items:center;
+    text-align: center;
+
+
+}
+
+img{
+    border-radius: 30%;
+    place-self:center;
+    padding-bottom: 40px;
+    padding-right:40px;
+}
+embed{
+    place-self: center;
+}
